@@ -9,6 +9,7 @@ https://www.youtube.com/watch?v=ahYuxTRjY0g
 ## Сделать макет с примером в видосе
 На этом шаге надо сделать маленький сайт по примеру из видоса, в обоих видосах чувак объясняет как и что он делат, но во втором более детально<br/>
 В целом можешь сделать и оба
+
 [Короткий видос](https://www.youtube.com/watch?v=F-fmwUkawHQ) <br/>
 [Подробный видос](https://www.youtube.com/watch?v=b8K_iowSriQ&list=PLoq3Accf02PVO4GvY4-UtIQkeD6tNmX_f)
 
